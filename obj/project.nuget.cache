@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2XXF3rpBBVs=",
+  "success": true,
+  "projectFilePath": "/home/kamina/Desktop/projects/shary/shary.csproj",
+  "expectedPackageFiles": [
+    "/home/kamina/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/10.0.0/microsoft.netcore.app.runtime.linux-x64.10.0.0.nupkg.sha512",
+    "/home/kamina/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512",
+    "/home/kamina/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/10.0.0/microsoft.aspnetcore.app.runtime.linux-x64.10.0.0.nupkg.sha512",
+    "/home/kamina/.nuget/packages/microsoft.netcore.app.host.linux-x64/10.0.0/microsoft.netcore.app.host.linux-x64.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
